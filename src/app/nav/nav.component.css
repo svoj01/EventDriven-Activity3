@@ -1,0 +1,35 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+.menu {
+  background: inherit;
+  height: 55px;
+  font-size: x-large;
+}
+.example-header-image {
+  background-image: url(../../assets/me.jpg);
+  background-size: cover;
+  margin-left: 50px;
+}
+h3 {
+  text-align: right;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  height: 55px;
+}
+.mat-icon {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.tool {
+  background-color: rgb(94, 136, 199);
+}
