@@ -18,6 +18,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { GalleryComponent } from './gallery/gallery.component';
 import { ContactComponent } from './contact/contact.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { AppModule } from './app.module';
 
 @NgModule({
   declarations: [
