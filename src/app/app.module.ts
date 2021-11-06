@@ -18,7 +18,6 @@ import { MatMenuModule } from '@angular/material/menu';
 import { GalleryComponent } from './gallery/gallery.component';
 import { ContactComponent } from './contact/contact.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
-import { AppModule } from './app.module';
 
 @NgModule({
   declarations: [
@@ -46,4 +45,6 @@ import { AppModule } from './app.module';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+import = AppModule;
+ }
