@@ -1,27 +1,27 @@
 .mat-card {
   background-color: rgb(10, 10, 10);
-  color:rgb(252, 90, 90);
+  color:rgba(119, 243, 247, 0.918);
 }
 .content {
   padding: 16px;
 }
 .content > mat-card {
-  background-color: rgb(248, 132, 132);
+  background-color: rgb(132, 244, 248);
   width: 200px;
 }
 .mat-card-subtitle {
-  color: rgb(245, 87, 87);
+  color: rgb(87, 245, 237);
 }
 button {
   background-color: rgb(0, 0, 0);
-  color: rgb(245, 87, 87);
+  color: rgb(101, 245, 221);
 }
 button:hover {
   background-color: rgb(8, 8, 8);
-  color: rgb(248, 132, 132);;
+  color: rgb(132, 248, 242);;
 }
 .example-header-image {
-  background-image: url(../../assets/img1.jpg);
+  background-image: url(../../assets/img2.jpg);
   background-size: cover;
 }
 
@@ -33,6 +33,6 @@ h1 {
   font: 1.4em sans-serif;
   font-size: 30px;
   font-weight: bold;
-  color: rgb(245, 101, 101);
+  color: #63fad9ee;
   text-align: center;
 }

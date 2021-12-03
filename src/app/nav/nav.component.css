@@ -12,7 +12,7 @@
   font-size: x-large;
 }
 .example-header-image {
-  background-image: url(../../assets/me.jpg);
+  background-image: url(../../assets/img1.jpg);
   background-size: cover;
   margin-left: 50px;
 }

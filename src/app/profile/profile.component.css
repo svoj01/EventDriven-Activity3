@@ -19,7 +19,7 @@
   font: 1.2em sans-serif;
 }
 span {
-  color: brown;
+  color: rgb(105, 243, 236);
 }
 img {
   width: 70%;
@@ -28,8 +28,9 @@ img {
   margin-left: 50px;
 }
 .mat-card-content {
-  background-color: rgb(253, 110, 110);
-  height: 100px;
+  background-color: rgb(110, 253, 234);
+  height: 150px;
+  text-align: center;
 }
 p {
   text-align: center;
@@ -44,7 +45,7 @@ h1 {
   font: 1.4em sans-serif;
   font-size: 30px;
   font-weight: bold;
-  color: rgb(245, 101, 101);
+  color: rgb(101, 245, 221);
   text-align: center;
   
 }
@@ -52,5 +53,5 @@ h2 {
   font-weight: light;
   font-size: 20px;
   padding-top: 60px;
-  color: rgb(253, 133, 133);
+  color: rgb(133, 253, 237);
 }
